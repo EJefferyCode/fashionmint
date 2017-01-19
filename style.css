@@ -1,0 +1,178 @@
+html, 
+body {
+height: 390%;
+border: 10px solid; 
+}
+
+html {
+background-color:#00ca5d;
+padding-bottom:130px;
+
+}
+
+body {
+background-color:#d0ffe6;
+height:98.8%;
+padding-bottom:120px;
+
+
+}
+
+#container0 {
+font-size: 26px;
+width: 800px;
+height: px;
+border: 10px solid;
+margin-left: 160px;
+margin-top:10px;
+background-color:#000;
+}
+
+h1 {
+margin-left: 470px;
+margin-right: 20px;
+color:#cefce3;
+
+}
+
+#triangle-down {
+width: 0; 
+height: 0; 
+border-left: 40px solid transparent; 
+border-right: 40px solid transparent; 
+border-top: 60px solid #009d48;
+margin-top:10px;
+margin-left: 10px;
+}
+
+#triangle-down2
+{
+width: 0; 
+height: 0; 
+border-left: 40px solid transparent; 
+border-right: 40px solid transparent; 
+border-top: 60px solid #009d48;
+margin-top:-60px;
+margin-left: 1011px;
+}
+
+/*Page Contents*/
+
+#container1 {
+margin-top:100px;
+margin-left:160px;
+border: solid 2px;
+height:400px;
+width:400px;
+box-shadow: 10px 4px 2px 1px;
+}
+
+#container2 {
+margin-top:-305px;
+margin-left:589px;
+border: solid 2px;
+height:300px;
+width:390px;
+box-shadow: 10px 4px 2px 1px;
+}
+
+#container3 {
+margin-top:100px;
+margin-left:155px;
+border: solid 2px;
+height:300px;
+width:400px;
+box-shadow: 10px 4px 2px 1px;
+}
+
+#container4 {
+margin-top:-304px;
+margin-left:585px;
+border: solid 2px;
+height:301px;
+width:400px;
+box-shadow: 10px 4px 2px 1px;
+}
+
+#container12 {
+margin-top:-405px;
+margin-left:590px;
+border: solid 2px;
+height:400px;
+width:390px;
+box-shadow: 10px 4px 2px 1px;
+}
+
+#container77 {
+margin-top: 80px;
+margin-left:355px;
+border: solid 2px;
+height:301px;
+width:400px;
+box-shadow: 10px 4px 2px 1px;  
+}
+
+/**Page content ends*/
+
+/*menu*/
+.menu {
+background:black;
+display:block;
+margin-left:0px;
+padding-left:300px;
+height:60px;
+border: 2px solid;
+background-color:#000;
+
+}
+
+a {
+color:#d0ffe6;
+
+font-size:30px;
+text-decoration:none;
+}
+
+a:hover {
+color:#009d48;
+}
+
+#separator {
+margin-top:60px;
+width: 1097px;
+margin-left:0px;
+border: 2.3px solid black;
+opacity: 0.7;
+height:350px;
+background-color:#007033;
+}
+
+
+#separator2 {
+margin-top:30px;
+width: 1000px;
+margin-left:57px;
+border: 2.3px solid black;
+opacity: 0.2;
+    
+}
+
+
+#separator3 {
+margin-top:30px;
+width: 1099px;
+margin-left:0px;
+border: 1px solid black;
+opacity:1;
+height: 120px;
+margin-top:0px;
+background-color:#0e5b31;
+
+}
+
+#end, a {
+ font-size: 17px;
+}
+
+
+
